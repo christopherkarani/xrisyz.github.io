@@ -801,7 +801,7 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 54px;
   border: none !important;
   background: #fff;
-  color: rgb(0, 225, 255);
+  color: rgb(75, 75, 75);
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 400;
@@ -1121,7 +1121,7 @@ input[type="text"] {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: rgb(0, 225, 255);
+  color: rgb(75, 75, 75);
   border: 2px solid rgb(0, 225, 255);
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
